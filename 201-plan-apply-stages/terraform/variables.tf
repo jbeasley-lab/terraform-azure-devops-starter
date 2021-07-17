@@ -1,7 +1,7 @@
 variable "appname" {
   type = string
   description = "Application name. Use only lowercase letters and numbers"
-  default = "starterterraform"
+  default = "jbeasleyfintech4321"
 }
 
 variable "environment" {
@@ -13,7 +13,7 @@ variable "environment" {
 variable "location" {
   type    = string
   description = "Azure region where to create resources."
-  default = "North Europe"
+  default = "East US"
 }
 
 variable "department" {
@@ -24,5 +24,5 @@ variable "department" {
 
 variable "sql2password" {
   type    = string
-  description = "A password for SQL Server #2"
+  description = "VyC8RyCa*"
 }
